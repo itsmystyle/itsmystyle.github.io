@@ -1,1 +1,1 @@
-# itsmystyle.github.io
+# Ezy AI易經卜卦
