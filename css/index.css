@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.first-div {
+    flex-grow: 1;
+}
+
+.second-div {
+    align-self: center;
+    padding: 10px;
+}
